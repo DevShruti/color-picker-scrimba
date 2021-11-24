@@ -26,5 +26,5 @@ async function getColors(colorCount) {
     displayColors(colors)
 }
 
-let colorCount = 25
+let colorCount = 100
 getColors(colorCount)
