@@ -12,6 +12,7 @@ body {
 .my-colors {
   display: flex;
   height: 100vh;
+  flex-wrap: wrap;
 }
 
 .my-color {
